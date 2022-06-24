@@ -1,22 +1,3 @@
-/* 1er ejercicio */
-
-
-/* function pares (){
-    for (let i = 2; i <= 12; i++) {
-        if (i % 2 == 0) {
-          console.log(i);1
-        }
-        
-      }
-}
-pares(); */
-
-
-
-
-/* 2do ejercicio */
-
-
 let cal1 = parseInt(prompt("Ingrese su 1ra califacion del 10 al 100"));
 let cal2 = parseInt(prompt("Ingrese su 2da califacion del 10 al 100"));
 let cal3 = parseInt(prompt("Ingrese su 3ra califacion del 10 al 100"));
@@ -36,31 +17,3 @@ function calprom(cal1, cal2, cal3, cal4, cal5) {
     console.log(`${text} ${promRound}`);
   }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
