@@ -1,4 +1,4 @@
-# Ejericios-JS-Bootcamp
+# Ejercicios-JS-Bootcamp
 Conjunto de ejercicios en js para practica
 
 "404 not found" Desarrollo ejercicio semanal JavaScript:
